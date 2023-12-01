@@ -1,0 +1,1 @@
+main=interact$show.sum.map(read.(\x->[head x,last x]).filter(<':')).lines
