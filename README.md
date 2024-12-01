@@ -1,3 +1,3 @@
-My solutions to [Advent of Code 2023](https://adventofcode.com/2023).
+My solutions to [Advent of Code](https://adventofcode.com/).
 
 Written in very _readable_, _clean_ and _idiomatic_ Haskell (not really).
