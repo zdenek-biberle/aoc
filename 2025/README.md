@@ -1,0 +1,1 @@
+I've never written much Rust, so this will probably suck.
